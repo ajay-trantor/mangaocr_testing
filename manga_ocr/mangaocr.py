@@ -61,6 +61,6 @@ def reformat_coords(word_coords):
                 except IndexError:
                     continue
             else:
-                print(x_index)
+                pass
     return reformated_output
 
